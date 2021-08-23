@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProductDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Products>
+    <Product Tags="Stationery;Newspaper" DisplayName="Die Welt" Price="2" Id="d578c33a-6edc-4acd-9130-e533bfe3070e" />
+    <Product Tags="Stationery;Newspaper" DisplayName="Die Zeit" Price="2" Id="bd52f3ef-a80a-4292-9021-f959cff625d2" />
+    <Product Tags="Stationery;Newspaper" DisplayName="Handelsblatt" Price="2" Id="0f5a4b53-1673-4ecc-b24a-46598c2a7083" />
+    <Product Tags="Stationery;Newspaper" DisplayName="Neues Deutschland" Price="2" Id="c67983fc-c9f1-4761-8e22-4b385af8ad53" />
+    <Product Tags="Stationery;Newspaper" DisplayName="Rheinische Post" Price="2" Id="11e9f74f-0f20-4fae-8fe7-2975890995be" />
+    <Product Tags="Stationery;Newspaper" DisplayName="Der Tagesspiegel" Price="2" Id="f5d09ed9-2691-49a9-a3e8-abffc6df65b4" />
+    <Product Tags="Stationery;Magazine" DisplayName="Bild" Price="2" Id="6636cd4d-140d-479c-8ebf-16d2dd385cf8" />
+    <Product Tags="Stationery;Magazine" DisplayName="Auto Bild" Price="2" Id="096e82b5-bf57-41b7-96ca-73c267d3b494" />
+    <Product Tags="Stationery;Magazine" DisplayName="Bunte" Price="2" Id="710ed860-d79f-4894-9f81-b54fc92a537a" />
+    <Product Tags="Stationery;Magazine" DisplayName="Der Spiegel" Price="2" Id="6df90303-d983-46f3-9813-1a4baad1cee4" />
+    <Product Tags="Stationery;Magazine" DisplayName="Focus" Price="2" Id="f4361fb0-31ed-46c4-a360-621ab02967d6" />
+    <Product Tags="Stationery;Magazine" DisplayName="Stern" Price="2" Id="8d337af6-dd0d-472e-a5bc-78e10b55ce62" />
+    <Product Tags="Stationery;GreetingCard" DisplayName="Happy Birthday" Price="2" Id="6323a699-1c7f-46c6-aa95-b2fd40c89326" />
+    <Product Tags="Stationery;GreetingCard" DisplayName="Happy Anniversary" Price="2" Id="f4bb9541-831a-48b4-8534-18cda9692cca" />
+    <Product Tags="Stationery;GreetingCard" DisplayName="Thank You" Price="2" Id="af5d0283-ee03-47c5-ace4-8da2116a5644" />
+    <Product Tags="FoodItem;Beverage;Edible" DisplayName="Coca Cola" Price="2" Id="a3992f93-6cb4-4f76-b092-30133d98499f" />
+    <Product Tags="FoodItem;Beverage;Edible" DisplayName="Kaffee" Price="2" Id="a0d8eeb4-537c-47a2-80bf-bc2c5d1ee20d" />
+    <Product Tags="FoodItem;Beverage;Edible" DisplayName="Wasser" Price="2" Id="33885a93-c39a-4207-8c34-5c405307846d" />
+    <Product Tags="Edible;FoodItem" DisplayName="Sandwich" Price="2" Id="a3f5509e-53be-4a26-82cb-ec1a1e243bbb" />
+    <Product Tags="Custom" DisplayName="Custom" Price="4.5" Id="d51221d3-a32d-47cf-ad00-91e3d9a2ed7f" />
+    <Product Tags="Commodity;SIMCard" DisplayName="SIM Card" Price="2" Id="5e055410-c8cf-4a5b-9bfc-cf8f97fa61bc" />
+    <Product Tags="Commodity" DisplayName="Tissues" Price="2" Id="824b86c1-7882-4ba3-b0e0-0f842982f151" />
+  </Products>
+</ProductDatabase>

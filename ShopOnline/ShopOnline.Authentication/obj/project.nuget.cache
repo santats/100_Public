@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "KL6bJSfseSaJPdPClijK6iKX/gNZutusWdDQtXY4PfvPHmkaO4IVnCZKv9H7G6gE0d6SOmVXoDhZEeMWczXNjg==",
+  "success": true,
+  "projectFilePath": "E:\\2000_Santosh\\2300_My Work\\2399_GitHub_SanTats\\100_Public\\ShopOnline\\ShopOnline.Authentication\\ShopOnline.Authentication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\suchi\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\suchi\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\microsoft.identitymodel.jsonwebtokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\suchi\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\microsoft.identitymodel.logging.6.12.2.nupkg.sha512",
+    "C:\\Users\\suchi\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\microsoft.identitymodel.tokens.6.12.2.nupkg.sha512",
+    "C:\\Users\\suchi\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\system.identitymodel.tokens.jwt.6.12.2.nupkg.sha512",
+    "C:\\Users\\suchi\\.nuget\\packages\\system.security.cryptography.cng\\4.5.0\\system.security.cryptography.cng.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
